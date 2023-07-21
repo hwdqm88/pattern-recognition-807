@@ -18,6 +18,7 @@
 
 我的本机环境是
 + Python 3.10
++ PyCharm 2022.3
 + numpy 1.25.0
 + matplotlib 3.7.1
 
