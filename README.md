@@ -21,6 +21,7 @@
 + PyCharm 2022.3
 + numpy 1.25.0
 + matplotlib 3.7.1
++ sklearn 1.2.2
 
 除此之外没用别的包（Jupyter notebook什么版本不影响跑代码）。
 
