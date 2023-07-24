@@ -19,10 +19,11 @@
 我的本机环境是
 + Python 3.10
 + PyCharm 2022.3
-+ numpy 1.25.0
-+ matplotlib 3.7.1
-+ sklearn 1.2.2
 
-除此之外没用别的包（Jupyter notebook什么版本不影响跑代码）。
+Python版本影响不大，不要差太多就行
 
-我应该没有用一些稀奇古怪的api，所以用什么版本应该都可以。
+其他包的安装：
+
+`pip install -r requirements.txt`
+
+建议使用虚拟环境运行。
